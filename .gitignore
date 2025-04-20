@@ -1,0 +1,9 @@
+node_modules/
+.env
+dist/
+images/
+lixo.ipynb
+cards_data - Copia (1).xlsx
+cards_data - Copia (11).xlsx
+cards_data - Copia.xlsx
+MTG - Copia.ipynb
